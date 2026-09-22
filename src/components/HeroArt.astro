@@ -1,0 +1,36 @@
+---
+// A titration ladder: fixed dose steps climbing left to right, each with its mg label,
+// on a graph-paper field. Deliberately not blog-1's peptide-chain illustration.
+const steps: [number, number, number, string][] = [
+  [40, 360, 60, '0.25'],
+  [110, 300, 80, '0.5'],
+  [180, 240, 100, '1.0'],
+  [250, 180, 120, '2.0'],
+  [320, 120, 140, '3.0'],
+  [390, 60, 160, '4.0'],
+];
+---
+<svg class="hero-art" viewBox="0 0 460 420" aria-hidden="true" focusable="false">
+  <defs>
+    <pattern id="ha-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="currentColor" stroke-opacity=".08" />
+    </pattern>
+    <linearGradient id="ha-fill" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#b23a2f" stop-opacity=".85" />
+      <stop offset="1" stop-color="#b23a2f" stop-opacity=".55" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="460" height="420" fill="url(#ha-grid)" />
+  <line x1="30" y1="400" x2="440" y2="400" class="ha-axis" />
+  {steps.map(([x, y, h, label]) => (
+    <g>
+      <rect x={x} y={400 - h} width="50" height={h} fill="url(#ha-fill)" rx="3" />
+      <text x={x + 25} y={400 - h - 12} text-anchor="middle" class="ha-label">{label}<tspan class="ha-unit"> mg</tspan></text>
+    </g>
+  ))}
+  <polyline
+    points={steps.map(([x, , h]) => `${x + 25},${400 - h - 26}`).join(' ')}
+    fill="none" class="ha-line"
+  />
+  {steps.map(([x, , h]) => <circle cx={x + 25} cy={400 - h - 26} r="4.5" class="ha-dot" />)}
+</svg>
