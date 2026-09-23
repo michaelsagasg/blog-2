@@ -1,0 +1,18 @@
+---
+import { fmtDate, postUrl, readingTime, catLabel, catTone, catSymbol, type Post } from '../lib/site';
+interface Props { posts: Post[]; filterable?: boolean; showCat?: boolean }
+const { posts, filterable = false, showCat = true } = Astro.props;
+---
+<ul class="idx list" data-filter-root={filterable ? true : undefined}>
+  {posts.length > 0 ? posts.map((p) => (
+    <li
+      class={`idx-row t-${catTone(p.data.category)}`}
+      data-cat={p.data.category}
+      data-text={`${p.data.title} ${p.data.description} ${p.data.category}`.toLowerCase()}
+    >
+      {showCat && <span class="idx-tag"><b>{catSymbol(p.data.category)}</b>{catLabel(p.data.category)}</span>}
+      <a class="idx-title" href={postUrl(p)}>{p.data.title}</a>
+      <span class="idx-meta"><time datetime={p.data.date.toISOString()}>{fmtDate(p.data.date)}</time> · {readingTime(p)} min</span>
+    </li>
+  )) : <li class="idx-empty">No posts yet.</li>}
+</ul>

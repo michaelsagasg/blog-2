@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import PostCard from '../../components/PostCard.astro';
 import { render } from 'astro:content';
-import { getPosts, fmtDate, postUrl, readingTime, catLabel, catTone, catSymbol, withBase, articleJsonLd } from '../../lib/site';
+import { site, getPosts, fmtDate, postUrl, readingTime, catLabel, catTone, catSymbol, withBase, bannerHref, articleJsonLd } from '../../lib/site';
 
 export async function getStaticPaths() {
   const posts = await getPosts();
@@ -16,6 +16,7 @@ const { post, newer, older, related } = Astro.props;
 const { Content, headings } = await render(post);
 const toc = headings.filter((h) => h.depth === 2);
 const c = post.data.category;
+const b = site.banner;
 ---
 <Base title={post.data.title} description={post.data.description} type="article" jsonLd={articleJsonLd(post)}>
   <div class={`wrap art t-${catTone(c)}`}>
@@ -46,4 +47,12 @@ const c = post.data.category;
     {newer ? <a href={postUrl(newer)}><span>Newer</span>{newer.data.title}</a> : <span></span>}
     {older ? <a class="next" href={postUrl(older)}><span>Older</span>{older.data.title}</a> : <span></span>}
   </nav>
+  {b.enabled && (
+    <section class="wrap shop-callout" aria-label="Shop">
+      <div class="shop-callout-in">
+        <p>{b.headline}</p>
+        <a class="btn-line" href={bannerHref(b.url)} rel="sponsored noopener">{b.button} <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+  )}
 </Base>
