@@ -1,6 +1,7 @@
 {
   "slug": "blog-2",
   "name": "RetaTitrate",
+  "domain": "retatitrate.co.uk",
   "tagline": "Dose-by-dose titration schedules for retatrutide and tirzepatide, sourced and explained for UK readers.",
   "nav": [
     { "label": "All articles", "short": "All", "href": "/archive/" }
