@@ -37,6 +37,14 @@ const b = site.banner;
       <a href={withBase(`/category/${c}/`)}>More in {catLabel(c)}</a>
     </p>
   </div>
+  {b.enabled && (
+    <section class="wrap shop-callout" aria-label="Shop">
+      <div class="shop-callout-in">
+        <p>{b.headline}</p>
+        <a class="btn-line" href={bannerHref(b.url)} rel="sponsored noopener">{b.button} <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+  )}
   {related.length > 0 && (
     <section class="wrap related" aria-labelledby="keep">
       <h2 id="keep">Keep reading</h2>
@@ -47,12 +55,4 @@ const b = site.banner;
     {newer ? <a href={postUrl(newer)}><span>Newer</span>{newer.data.title}</a> : <span></span>}
     {older ? <a class="next" href={postUrl(older)}><span>Older</span>{older.data.title}</a> : <span></span>}
   </nav>
-  {b.enabled && (
-    <section class="wrap shop-callout" aria-label="Shop">
-      <div class="shop-callout-in">
-        <p>{b.headline}</p>
-        <a class="btn-line" href={bannerHref(b.url)} rel="sponsored noopener">{b.button} <span aria-hidden="true">→</span></a>
-      </div>
-    </section>
-  )}
 </Base>
