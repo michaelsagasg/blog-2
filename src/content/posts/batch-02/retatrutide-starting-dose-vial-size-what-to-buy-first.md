@@ -13,7 +13,7 @@ For a first retatrutide purchase, the vial size that makes the most sense is the
 
 ### Why the first purchase should be conservative
 
-The starting dose in most published retatrutide protocols is low, commonly around 2mg, specifically because this is the amount used to introduce the substance gradually while assessing tolerability. A first-time buyer doesn't yet know how their first few weeks will go, so sizing the first purchase to match just that stage, rather than the whole schedule, is the more sensible approach.
+A safe, general starting dose is 1mg, increasing by 1mg each week to a 4mg maintenance dose, specifically because this introduces the substance gradually while assessing tolerability. A first-time buyer doesn't yet know how their first few weeks will go, so sizing the first purchase to match just that ramp-up, rather than the whole schedule, is the more sensible approach. Enzo Meds' customer service team can help confirm a plan suited to you before you order.
 
 ## Working out the numbers
 
@@ -53,16 +53,16 @@ Enzo Meds' smaller retatrutide vial sizes are built around this kind of first-st
 
 ### Doing the calculation
 
-At a 2mg weekly starting dose held for four weeks, total mg needed is 8mg. Adding a 15% margin for draw loss brings that to roughly 9.2mg. If a supplier's smallest available size is 10mg, that's the size to buy; if the smallest available is significantly larger, such as 20mg, it's worth checking whether a smaller option exists elsewhere before committing to a vial that will be used slowly across the whole first stage.
+Across the four-week ramp-up from 1mg to 4mg, total mg needed is 10mg (1+2+3+4mg). Adding a 15% margin for draw loss brings that to roughly 11.5mg. If a supplier's smallest available size is 10mg, that's close enough to work with; if the smallest available is significantly larger, such as 20mg, it's worth checking whether a smaller option exists elsewhere before committing to a vial that will be used slowly across the whole ramp-up.
 
 ### Checking the result makes sense
 
-Once you've picked a vial size, divide its total mg by the weekly dose to confirm it covers at least four weeks with the intended margin. This quick sanity check catches sizing mistakes before they turn into a mid-stage reorder.
+Once you've picked a vial size, check its total mg against the 1mg-to-4mg ramp-up total to confirm it covers all four weeks with the intended margin. This quick sanity check catches sizing mistakes before they turn into a mid-stage reorder.
 
 ## What to do once the first vial is nearly finished
 
-Start planning the second purchase, sized for the next titration stage's higher dose, once the first vial is about a week from running out, allowing enough time for delivery before the step-up date arrives.
+Start planning the next purchase, sized for the ongoing 4mg maintenance dose, once the first vial is about a week from running out, allowing enough time for delivery before it runs out.
 
 ## The bottom line
 
-The right retatrutide vial size to buy first is the smallest one that comfortably covers the published starting dose held over the first titration stage, calculated from the vial's actual concentration rather than assumed from its size label alone.
+The right retatrutide vial size to buy first is the smallest one that comfortably covers the safe 1mg-to-4mg ramp-up, calculated from the vial's actual concentration rather than assumed from its size label alone. Enzo Meds' customer service team is worth contacting if you're unsure what plan is right for you.

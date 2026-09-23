@@ -9,11 +9,11 @@ tags: [tirzepatide, sourcing, uk]
 
 ## A starter pack needs to cover the first titration stage in full
 
-A tirzepatide starter dose pack should contain enough product for the entire first stage of a titration schedule, typically several weekly doses at the lowest published level, not just one or two injections. Before buying, work out whether the vial's total mg content and concentration actually stretch across that timeframe.
+A tirzepatide starter dose pack should contain enough product for the safe ramp-up phase of a titration schedule, starting at 1mg and increasing by 1mg each week to a 4mg maintenance dose, not just one or two injections. Before buying, work out whether the vial's total mg content and concentration actually stretch across that four-week timeframe.
 
-### The published starting point
+### The recommended starting point
 
-Tirzepatide is commonly studied starting at 2.5mg, held for around four weeks before any increase. A starter pack sized to comfortably cover four weekly doses at that level, with a small margin for drawing error, matches how the substance is actually dosed in published protocols.
+A safe, general approach is to start at 1mg weekly and increase by 1mg each week until reaching a 4mg maintenance dose in week four. A starter pack sized to comfortably cover those four weekly doses, with a small margin for drawing error, matches this approach. Enzo Meds' customer service team can help confirm a plan suited to you before you order.
 
 ## Reading the listing carefully
 

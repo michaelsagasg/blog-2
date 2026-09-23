@@ -7,49 +7,49 @@ keyword: buying retatrutide 2mg starter dose uk
 tags: [retatrutide, sourcing, uk]
 ---
 
-## 2mg is the commonly published retatrutide starting dose, held for around four weeks
+## 1mg is a safe starting dose, rising by 1mg a week to a 4mg maintenance dose
 
-Retatrutide's starting dose in published trial protocols is commonly 2mg weekly, held for roughly four weeks before any step up. A UK starter listing built around this figure, clearly stated, is the right entry point for beginning a titration schedule, rather than starting at a higher amount to move things along faster.
+A safe, general approach to retatrutide is a 1mg starting dose, increased by 1mg each week until a 4mg maintenance dose is reached in week four. A UK starter listing built around this ramp-up, clearly stated, is the right entry point for beginning a titration schedule, rather than starting at a higher amount to move things along faster. Enzo Meds' customer service team can help confirm a plan suited to you before you order.
 
-### Why titration starts here specifically
+### Why titration starts low and rises gradually
 
-The 2mg starting point exists to introduce a GLP-1 triple agonist gradually, since side effects like nausea are closely tied to how quickly the dose increases rather than the dose itself. This is the figure most published retatrutide titration references use as a baseline.
+Starting low and increasing gradually gives the body time to adjust to a GLP-1 triple agonist, since side effects like nausea are closely tied to how quickly the dose increases rather than the dose itself. A 1mg start rising to a 4mg maintenance dose reflects that same principle.
 
-## Checking a UK 2mg starter listing
+## Checking a UK starter listing
 
 ### Concentration and total content
 
-Confirm the vial's mg per ml and total content, and check it comfortably covers around four weekly 2mg doses with a small margin for draw loss. A listing labelled "starter" should be checked against these numbers rather than trusted on the label alone.
+Confirm the vial's mg per ml and total content, and check it comfortably covers the four weekly doses as they rise from 1mg to 4mg, with a small margin for draw loss. A listing labelled "starter" should be checked against these numbers rather than trusted on the label alone.
 
 ### Batch-specific COA
 
 Even a small starter vial should have a certificate of analysis tied to its own batch, naming the lab and testing method used. A generic COA reused across every product size isn't the same thing.
 
-## Syringes suited to a 2mg dose
+## Syringes suited to the starting dose
 
 ### Fine-scale syringes for accuracy
 
-The draw volume for a 2mg retatrutide dose is small, and a 0.3ml or 0.5ml insulin syringe with fine markings will read it more precisely than a standard 1ml syringe. Pairing the right syringe with the vial matters just as much as the vial choice itself.
+The draw volume for a 1mg retatrutide dose is small, and a 0.3ml or 0.5ml insulin syringe with fine markings will read it more precisely than a standard 1ml syringe. Pairing the right syringe with the vial matters just as much as the vial choice itself.
 
 ## Planning beyond the starting stage
 
 ### What typically follows
 
-Published protocols commonly step up from 2mg to 4mg after the initial four-week hold, continuing through further increases toward a maintenance range over the following months. Knowing this ahead of time makes planning the next purchase easier.
+The recommended approach is to increase by 1mg each week, reaching the 4mg maintenance dose in week four and holding there afterward rather than increasing further. Knowing this ahead of time makes planning the next purchase easier.
 
 ### Buying only for the current stage
 
-It's generally more sensible to size a first order around the 2mg stage alone, rather than buying a large vial meant to cover multiple stages, since how quickly the next increase happens should depend on how the starting stage is tolerated.
+It's generally more sensible to size a first order around the first week's 1mg dose alone, rather than buying a large vial meant to cover multiple stages, since how quickly the next increase happens should depend on how the starting dose is tolerated.
 
 ## A reasonable UK reference point
 
-Enzo Meds' smaller retatrutide vial sizes, paired with clearly stated concentration and batch-specific COAs, are built with this kind of starter sizing in mind, offering a useful benchmark for a properly matched 2mg starter purchase.
+Enzo Meds' smaller retatrutide vial sizes, paired with clearly stated concentration and batch-specific COAs, are built with this kind of starter sizing in mind, offering a useful benchmark for a properly matched starter purchase.
 
 ## Checking the numbers before ordering
 
 ### A quick worked example
 
-A vial labelled 8mg in 4ml works out to 2mg/ml, meaning a single 2mg dose is drawn as exactly 1ml. A vial labelled 8mg in 2ml works out to 4mg/ml, meaning the same 2mg dose is only 0.5ml. Both could reasonably be marketed as a "2mg starter dose" vial, but the actual draw volume, and the syringe size best suited to reading it accurately, differs meaningfully between the two.
+A vial labelled 8mg in 4ml works out to 2mg/ml, meaning a single 1mg dose is drawn as 0.5ml. A vial labelled 8mg in 2ml works out to 4mg/ml, meaning the same 1mg dose is only 0.25ml. Both could reasonably be marketed as a "starter dose" vial, but the actual draw volume, and the syringe size best suited to reading it accurately, differs meaningfully between the two.
 
 ### Why this affects syringe choice
 
@@ -61,11 +61,11 @@ A listing that states both total mg and ml volume plainly, rather than only the 
 
 ## The bottom line
 
-A retatrutide 2mg starter purchase should be sized to comfortably cover around four weeks at that dose, backed by a batch-specific COA, and matched with an appropriately fine syringe. Treat it as the opening stage of a longer titration schedule rather than a standalone purchase.
+A retatrutide starter purchase should be sized to comfortably cover the four-week ramp-up from 1mg to 4mg, backed by a batch-specific COA, and matched with an appropriately fine syringe. Treat it as the opening stage of a longer titration schedule rather than a standalone purchase.
 
 ## A note on rounding when a supplier's sizes don't match exactly
 
-If no available vial size lines up neatly with the calculated 2mg starter requirement, round up rather than down, and treat any leftover product as the built-in margin for draw loss rather than trying to use it for a partial extra dose outside the planned schedule.
+If no available vial size lines up neatly with the calculated starter requirement, round up rather than down, and treat any leftover product as the built-in margin for draw loss rather than trying to use it for a partial extra dose outside the planned schedule.
 
 ### One more check worth doing
 

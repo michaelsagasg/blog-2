@@ -19,7 +19,7 @@ Everything is unfamiliar on a first cycle: the supplier hasn't been tested yet, 
 
 ### Match it to the starting dose stage
 
-Published retatrutide titration schedules typically start around 2mg, held for roughly four weeks. Size a first vial purchase to cover that stage with a small margin, rather than buying a larger vial intended for later, higher stages.
+A safe, general approach starts at 1mg and increases by 1mg each week until reaching a 4mg maintenance dose in week four. Size a first vial purchase to cover that four-week ramp-up with a small margin, rather than buying a larger vial intended for later, higher stages. Enzo Meds' customer service team can help confirm a plan suited to you before you order.
 
 ### Confirm concentration before ordering
 

@@ -39,7 +39,7 @@ A slower protocol naturally spans more calendar time and more individual orders.
 
 ### The starting dose itself
 
-A slower protocol changes how long each stage is held, not the dose levels themselves. The published starting dose and step sizes stay the same reference points; only the pacing between them differs.
+A slower protocol changes how long each step is held, not the dose levels themselves. The safe reference points, a 1mg starting dose and 1mg weekly increases up to a 4mg maintenance dose, stay the same; only the pacing between them differs. Enzo Meds' customer service team can help you work out a pace suited to how you're finding each step.
 
 ### The need for documentation
 
@@ -51,13 +51,13 @@ Enzo Meds' smaller retatrutide vial sizes, paired with batch-specific COAs, work
 
 ## A worked example of resizing for a slower pace
 
-### Standard four-week sizing
+### Standard weekly sizing
 
-At a 2mg weekly dose held for the standard four weeks, total need is 8mg, plus a margin, giving roughly 9.2mg.
+Held at a standard pace, the 1mg-to-4mg ramp-up over four weeks needs 10mg total (1+2+3+4mg), plus a margin, giving roughly 11.5mg.
 
-### Extended eight-week sizing
+### Extended sizing if a step is held longer
 
-At the same 2mg weekly dose held for eight weeks instead, total need doubles to roughly 16mg before the margin, or about 18.4mg with it. Buying a single vial that size upfront, rather than two smaller ones purchased a month apart, risks the second half sitting reconstituted well past its practical reliable window. Two smaller vials, each sized for roughly four weeks and reconstituted only when needed, generally makes more sense for this pace.
+If, say, the 2mg step is held for two extra weeks instead of one, that step alone adds another 2mg to the total before the margin. Buying a single large vial upfront to cover an uncertain extension risks reconstituted product sitting past its practical reliable window. A smaller top-up vial, bought once the need to extend a step becomes clear, generally makes more sense for this pace.
 
 ## Communicating pace changes to a supplier
 

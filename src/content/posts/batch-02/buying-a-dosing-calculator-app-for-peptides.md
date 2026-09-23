@@ -57,11 +57,11 @@ A basic table with columns for week, target dose in mg, vial concentration, and 
 
 ### Set up the numbers
 
-Take a vial labelled 10mg in 2ml (a concentration of 5mg/ml) and a target dose of 2mg for the first titration stage. Dividing the target dose by concentration gives 0.4ml, which on a syringe marked in units (where 1ml equals 100 units on a standard U-100 scale) works out to 40 units.
+Take a vial labelled 10mg in 2ml (a concentration of 5mg/ml) and a target dose of 1mg for the first week of titration. Dividing the target dose by concentration gives 0.2ml, which on a syringe marked in units (where 1ml equals 100 units on a standard U-100 scale) works out to 20 units.
 
 ### Run this through your calculator first
 
-Before trusting any tool with a real dose, run this exact example through it. If it doesn't return 0.4ml or 40 units, either the tool has a bug or you've misunderstood how to enter the numbers, and either way it's worth resolving before using it for an actual injection.
+Before trusting any tool with a real dose, run this exact example through it. If it doesn't return 0.2ml or 20 units, either the tool has a bug or you've misunderstood how to enter the numbers, and either way it's worth resolving before using it for an actual injection.
 
 ## Keeping a record across a full titration schedule
 

@@ -19,7 +19,7 @@ GLP-1 receptor agonists, and the dual or triple agonists like tirzepatide and re
 
 ### Adaptation at each step
 
-Holding a dose steady for around four weeks gives the digestive system time to adjust to that particular level of gastric slowing before a further increase is introduced. Trial data shows this adaptation genuinely happens, tolerability at a given dose tends to improve over the weeks it's held, rather than staying constant.
+Holding a dose steady for around a week gives the digestive system time to adjust to that particular level of gastric slowing before a further increase is introduced. Trial data shows this adaptation genuinely happens, tolerability at a given dose tends to improve over the weeks it's held, rather than staying constant.
 
 ### Avoiding compounding effects
 
@@ -65,4 +65,4 @@ Titration reduces nausea and other side effects by giving the digestive system t
 
 ## A summary of the underlying logic
 
-Every part of a titration schedule, the starting dose, the step size, and the four-week hold, traces back to this same mechanism: giving the digestive system time to adapt to slowed gastric emptying before the next increase. Understanding this makes the reasoning behind the schedule clearer than treating it as an arbitrary set of numbers.
+Every part of a safe titration schedule, the starting dose, the step size, and the weekly hold, traces back to this same mechanism: giving the digestive system time to adapt to slowed gastric emptying before the next increase. Understanding this makes the reasoning behind the schedule clearer than treating it as an arbitrary set of numbers.

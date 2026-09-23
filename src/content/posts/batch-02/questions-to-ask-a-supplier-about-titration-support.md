@@ -57,7 +57,7 @@ Enzo Meds is one example of a UK listing that pairs batch-specific COAs with ref
 
 ### Can they support tight reorder windows?
 
-A titration schedule that moves through stages every four weeks depends on timely reorders. Ask what typical UK delivery times look like and whether the supplier can flag likely delays in advance, since a late delivery right at a stage transition is more disruptive than one earlier in a stage.
+A titration schedule that moves through steps every week depends on timely reorders. Ask what typical UK delivery times look like and whether the supplier can flag likely delays in advance, since a late delivery right at a stage transition is more disruptive than one earlier in a stage.
 
 ### What happens during high-demand periods?
 

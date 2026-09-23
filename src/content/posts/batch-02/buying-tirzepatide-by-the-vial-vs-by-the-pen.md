@@ -53,7 +53,7 @@ Sellers like Enzo Meds that publish batch-specific COAs and reference titration 
 
 ### Vial and syringe route
 
-Across three four-week stages, buying by the vial typically means three separate purchases sized to each stage, plus an ongoing, modest cost for insulin syringes bought in bulk from a UK pharmacy. There's no additional hardware cost involved.
+Across the four-week ramp-up from 1mg to 4mg, buying by the vial typically means one or two purchases sized to the rising dose, plus an ongoing, modest cost for insulin syringes bought in bulk from a UK pharmacy. There's no additional hardware cost involved.
 
 ### Pen route
 

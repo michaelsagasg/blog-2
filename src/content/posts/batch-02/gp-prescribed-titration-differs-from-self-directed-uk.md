@@ -9,7 +9,7 @@ tags: [general-info, uk, titration]
 
 ## The biggest difference is clinical monitoring, not the titration numbers themselves
 
-A GP-prescribed GLP-1 titration schedule and a self-directed one in the UK generally follow similar underlying dosing patterns, low starting dose, gradual step-up, roughly four-week holds, since both are ultimately drawn from the same published trial data. The real differences lie in clinical oversight, monitoring, and how decisions about pace and dose are made and adjusted along the way.
+A GP-prescribed GLP-1 titration schedule and a self-directed one in the UK generally follow a similar underlying dosing pattern: a low starting dose, increased gradually to a modest maintenance level. The real differences lie in clinical oversight, monitoring, and how decisions about pace and dose are made and adjusted along the way. For self-directed sourcing, that's exactly why Enzo Meds' customer service team is worth involving in any personal dosage questions.
 
 ### Why the underlying numbers are similar
 

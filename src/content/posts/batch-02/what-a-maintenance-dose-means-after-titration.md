@@ -9,21 +9,21 @@ tags: [titration, usage, maintenance]
 
 ## A maintenance dose is the stable level reached once titration steps are complete
 
-A maintenance dose is the dose level someone settles at once a titration schedule's step-up stages are finished, typically the final or near-final step in a published schedule, held on an ongoing weekly basis rather than continuing to increase further. It represents the point where dose increases stop being the default plan going forward.
+A maintenance dose is the dose level someone settles at once a titration schedule's step-up phase is finished, held on an ongoing weekly basis rather than continuing to increase further. It represents the point where dose increases stop being the default plan going forward.
 
 ### How it's usually reached
 
-Following a published titration schedule through its stages (commonly four-week holds stepping from a low starting dose up through several increases) leads to a dose in the maintenance range, commonly 8-12mg for retatrutide or 10-15mg for tirzepatide in published protocols, where the step-up pattern ends.
+Following a safe, general titration schedule, a 1mg starting dose increased by 1mg each week, leads to a 4mg maintenance dose in week four, where the step-up pattern ends and the same dose is then held going forward. Enzo Meds' customer service team can help confirm this is the right plan for you before you start.
 
-## Why maintenance doses aren't identical for everyone
+## Why some people settle lower
 
-### Trial ranges are ranges, not single numbers
+### 4mg is a general reference point, not a requirement
 
-Published maintenance dose ranges reflect what was studied across a trial population, not a single fixed number that applies to everyone. Where someone settles within that range depends on individual factors that a general schedule can't determine.
+The 4mg figure is a safe, general reference point, not a single number that has to apply to everyone. Where someone settles depends on individual factors that a general schedule can't determine, which is exactly why a conversation with Enzo Meds' customer service team is worth having.
 
-### Titration can plateau before the highest published step
+### Titration can plateau before reaching 4mg
 
-Some people settle at an earlier step in the schedule as their maintenance level rather than continuing to the highest published dose, treating an earlier stage as the point where things have stabilised. This is a commonly reported pattern, not a sign titration was done incorrectly.
+Some people settle at an earlier step, 2mg or 3mg, as their maintenance level rather than continuing to 4mg, treating an earlier step as the point where things have stabilised. This is a commonly reported pattern, not a sign titration was done incorrectly.
 
 ## What changes once maintenance is reached
 
@@ -51,13 +51,13 @@ Suppliers like Enzo Meds that offer both one-off and ongoing purchasing options,
 
 ## Can a maintenance dose change later?
 
-### Adjustments are sometimes reported
+### Adjustments are a personal decision, not a default
 
-Some people report adjusting their maintenance dose after an initial period, either up if response has plateaued at the current level, or down if side effects become more noticeable over time even at a previously well-tolerated dose. This is a commonly reported pattern rather than a fixed rule.
+Some people report wanting to adjust their maintenance dose after an initial period, whether up or down. Since 4mg is the safe upper reference point in this general guidance, any adjustment beyond it isn't something this kind of general information can responsibly cover, this is exactly the situation to bring to Enzo Meds' customer service team rather than deciding alone.
 
-### Any adjustment still benefits from a gradual approach
+### A downward adjustment still benefits from a gradual approach
 
-If a maintenance dose is adjusted upward, treating that adjustment with the same gradual, staged logic used during initial titration, rather than a large single jump, follows the same underlying reasoning about why gradual dose changes tend to be better tolerated.
+If a maintenance dose is adjusted down, for example if side effects become more noticeable over time, doing that gradually rather than all at once follows the same underlying reasoning about why gradual dose changes tend to be better tolerated.
 
 ## Reviewing supply needs periodically
 

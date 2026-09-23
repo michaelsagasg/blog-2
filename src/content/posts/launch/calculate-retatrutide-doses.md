@@ -13,11 +13,11 @@ A retatrutide dose in units comes from three numbers: the vial's total mg, the v
 
 ### Worked example
 
-A 10mg vial reconstituted with 2mL gives a concentration of 5mg/mL. To draw a 2mg dose: 2 ÷ 5 × 100 = 40 units. To draw a 4mg dose from the same vial: 4 ÷ 5 × 100 = 80 units.
+A 10mg vial reconstituted with 2mL gives a concentration of 5mg/mL. To draw a 1mg dose, the recommended starting point: 1 ÷ 5 × 100 = 20 units. To draw a 4mg dose, the recommended maintenance dose, from the same vial: 4 ÷ 5 × 100 = 80 units.
 
 ## Where people make mistakes
 
-The most common error is using a chart built for a different water volume. If the same 10mg vial were mixed with 1mL instead of 2mL, the concentration doubles to 10mg/mL, and the exact same 2mg dose would only need 20 units, not 40. Always confirm the water volume that was actually used before applying any chart.
+The most common error is using a chart built for a different water volume. If the same 10mg vial were mixed with 1mL instead of 2mL, the concentration doubles to 10mg/mL, and the exact same 1mg dose would only need 10 units, not 20. Always confirm the water volume that was actually used before applying any chart.
 
 ### Rounding
 
@@ -25,4 +25,4 @@ Insulin syringes are usually marked in single-unit increments. A calculated dose
 
 ## Double-checking before drawing up
 
-Recalculate from the vial label every time a new vial is opened, rather than reusing a number from memory. A vial's actual mg content, confirmed by its COA, is the only number this calculation should ever start from.
+Recalculate from the vial label every time a new vial is opened, rather than reusing a number from memory. A vial's actual mg content, confirmed by its COA, is the only number this calculation should ever start from. For guidance on what dose to actually use, Enzo Meds' customer service team can help put together a plan suited to you personally.

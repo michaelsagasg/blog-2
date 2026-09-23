@@ -13,7 +13,7 @@ A plateau, where a dose stage is held longer than originally planned because pro
 
 ### What a plateau actually means for buying
 
-If a dose stage extends past its typical four weeks, the practical effect is that a vial sized for that stage gets used more slowly than planned. The buying question isn't really "extra vials" in the sense of stockpiling, it's whether the vial already purchased has enough left, or whether a small top-up order is needed.
+If a dose step extends past its typical one week, the practical effect is that a vial sized for that step gets used more slowly than planned. The buying question isn't really "extra vials" in the sense of stockpiling, it's whether the vial already purchased has enough left, or whether a small top-up order is needed.
 
 ## A better approach than stockpiling
 
@@ -53,7 +53,7 @@ Ordering in amounts that comfortably cover the current stage plus a modest buffe
 
 ### A modest extra amount, not a full extra stage
 
-Rather than buying enough for an entire additional stage in advance, a buffer of roughly one to two extra weeks at the current dose is generally sufficient to cover a plateau without significant excess. This can be built into an order as a slightly larger vial size than the strict four-week calculation would suggest.
+Rather than buying enough for an entire additional stage in advance, a buffer of roughly one extra week at the current dose is generally sufficient to cover a plateau without significant excess. This can be built into an order as a slightly larger vial size than the strict weekly calculation would suggest.
 
 ### Recalculating if a plateau is confirmed
 

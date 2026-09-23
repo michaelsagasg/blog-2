@@ -9,7 +9,7 @@ tags: [sourcing, titration, planning]
 
 ## A subscription suits maintenance dosing better than a changing titration schedule
 
-A subscription model, where the same product and size ships automatically on a fixed schedule, works well once a dose has stabilised at a maintenance level. It fits less naturally during titration itself, when the required vial size and mg amount change every few weeks as the dose steps up.
+A subscription model, where the same product and size ships automatically on a fixed schedule, works well once a dose has stabilised at a maintenance level. It fits less naturally during titration itself, when the required vial size and mg amount change every week as the dose steps up from 1mg toward the 4mg maintenance dose.
 
 ### Why titration doesn't map neatly onto a subscription
 

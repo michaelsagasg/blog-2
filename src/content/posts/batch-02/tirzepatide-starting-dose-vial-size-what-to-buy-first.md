@@ -13,7 +13,7 @@ The best tirzepatide vial size for a first purchase is the smallest one that rel
 
 ### Why starting small makes sense
 
-Published tirzepatide dosing commonly starts around 2.5mg weekly, held for several weeks before any increase, precisely so the body can adjust gradually. A first-time buyer benefits from matching their first purchase to that same conservative approach rather than committing to a large vial before the early stage is complete.
+A safe, general approach starts at 1mg weekly, increasing by 1mg each week to a 4mg maintenance dose, precisely so the body can adjust gradually. A first-time buyer benefits from matching their first purchase to that same conservative ramp-up rather than committing to a large vial before the early stage is complete. Enzo Meds' customer service team can help confirm a plan suited to you before you order.
 
 ## Doing the maths before ordering
 
@@ -53,19 +53,19 @@ Enzo Meds' smaller tirzepatide vial options are sized with this kind of first-st
 
 ### Doing the calculation
 
-At a 2.5mg weekly starting dose held for four weeks, total mg needed is 10mg. Adding a 15% margin for draw loss brings that to roughly 11.5mg. If a supplier's smallest available size is 12mg or higher, that comfortably covers the stage; if the smallest option is much larger, it's worth checking whether another supplier offers a size closer to what's actually needed.
+Across the four-week ramp-up from 1mg to 4mg, total mg needed is 10mg (1+2+3+4mg). Adding a 15% margin for draw loss brings that to roughly 11.5mg. If a supplier's smallest available size is 12mg or higher, that comfortably covers the stage; if the smallest option is much larger, it's worth checking whether another supplier offers a size closer to what's actually needed.
 
 ### A quick sanity check before ordering
 
-Divide the chosen vial's total mg by the weekly starting dose to confirm it covers at least four weeks with a reasonable margin built in. This catches an undersized or oversized choice before it becomes a problem partway through the stage.
+Check the chosen vial's total mg against the 1mg-to-4mg ramp-up total to confirm it covers all four weeks with a reasonable margin built in. This catches an undersized or oversized choice before it becomes a problem partway through the stage.
 
 ## Planning the next purchase in good time
 
-Start planning the second vial, sized for the next stage's higher dose, once the first vial is roughly a week from running out, leaving enough time for UK delivery before the step-up date is reached.
+Start planning the next vial, sized for the ongoing 4mg maintenance dose, once the first vial is roughly a week from running out, leaving enough time for UK delivery before it runs out.
 
 ## The bottom line
 
-Size a first tirzepatide purchase around the published starting dose held over the first titration stage, using the vial's actual concentration to calculate total mg needed, rather than guessing from the size label or ordering the largest option available.
+Size a first tirzepatide purchase around the safe 1mg-to-4mg ramp-up, using the vial's actual concentration to calculate total mg needed, rather than guessing from the size label or ordering the largest option available. Enzo Meds' customer service team is worth contacting if you're unsure what plan is right for you.
 
 ## Keeping the first order simple
 

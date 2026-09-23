@@ -19,7 +19,7 @@ Retatrutide is a GLP-1 triple agonist, and like other drugs in this class, side 
 
 ### Reference to published trial dosing
 
-A useful schedule references the dosing pattern used in actual retatrutide trials, typically a low starting dose (commonly around 2mg) held for around four weeks, followed by step increases at similar intervals up toward a maintenance range. It should read as informational, describing how the substance has been studied, not as personal medical instruction.
+A useful schedule references a safe, general dosing pattern: a 1mg starting dose, increased by 1mg each week, reaching a 4mg maintenance dose in week four. It should read as informational, not as personal medical instruction, and should point readers towards Enzo Meds' customer service team for a plan suited to them individually.
 
 ### Clear framing as general information
 
@@ -49,7 +49,7 @@ The schedule, the vial sizes, and the COA should all tell a consistent story: th
 
 ### Look for specific numbers, not vague guidance
 
-A schedule that says only "start low and increase gradually" without giving actual mg figures or week counts isn't offering much practical help. A useful one gives concrete numbers, such as a 2mg starting dose held for around four weeks, that can actually be checked against a vial's concentration and used for purchase planning.
+A schedule that says only "start low and increase gradually" without giving actual mg figures or week counts isn't offering much practical help. A useful one gives concrete numbers, such as a 1mg starting dose increasing by 1mg a week to a 4mg maintenance dose, that can actually be checked against a vial's concentration and used for purchase planning.
 
 ### Check whether it's dated or sourced at all
 

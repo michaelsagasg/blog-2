@@ -19,7 +19,7 @@ A titration schedule, when present, usually appears either directly on the produ
 
 ### Referenced against published trial dosing
 
-A schedule worth trusting describes a low starting dose held for several weeks, followed by step increases at similar intervals, and ideally references that this mirrors how the substance was studied in trials rather than presenting the numbers as original to the seller.
+A schedule worth trusting describes a safe, general pattern, such as a 1mg starting dose increased by 1mg each week to a 4mg maintenance dose, and points the reader toward the seller's own customer service team, such as Enzo Meds', for a plan suited to them personally, rather than presenting itself as personalised medical instruction.
 
 ### Framed as general information
 

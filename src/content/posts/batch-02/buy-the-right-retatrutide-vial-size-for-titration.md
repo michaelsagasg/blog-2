@@ -13,7 +13,7 @@ The right retatrutide vial size depends on where you are in a titration schedule
 
 ### Why one size rarely fits the whole schedule
 
-Published titration schedules commonly move from around 2mg up through several steps to a maintenance dose over roughly 12 weeks. Weekly consumption at the start is a fraction of what it becomes later, so a single vial size bought upfront for the entire schedule either runs out early or sits around half-used for weeks at the beginning.
+A safe, general titration schedule moves from a 1mg starting dose up through weekly 1mg increases to a 4mg maintenance dose, held from week four onward. Weekly consumption at the start is a fraction of what it becomes at maintenance, so a single vial size bought upfront for the entire schedule either runs out early or sits around half-used for weeks at the beginning. Enzo Meds' customer service team can help confirm a pace and plan suited to you.
 
 ## Working out volume needed per stage
 
@@ -45,7 +45,7 @@ Confirm the batch number and COA quoted apply to the actual vial size being ship
 
 ## Practical sizing by stage
 
-Early stages (roughly weeks 1-4 at the lowest published dose) generally need the smallest vial option a supplier offers. Mid-stages, once the dose has stepped up once or twice, typically need a mid-size vial to avoid reordering every few weeks. Maintenance-range doses consume the most per week and are usually where a larger vial becomes the more efficient buy.
+The early weeks (1mg through 3mg) generally need the smallest vial option a supplier offers. Once the 4mg maintenance dose is reached, weekly consumption is highest and that's usually where a larger vial becomes the more efficient buy.
 
 ## Common sizing mistakes worth avoiding
 

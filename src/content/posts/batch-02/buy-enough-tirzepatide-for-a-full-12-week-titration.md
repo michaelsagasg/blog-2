@@ -9,17 +9,17 @@ tags: [tirzepatide, sourcing, planning]
 
 ## Calculate each stage separately, then add them up
 
-A full 12-week tirzepatide titration schedule, following a commonly cited pattern of three four-week stages stepping from 2.5mg up to 10mg, uses considerably less total product than assuming the highest dose applies across all 12 weeks. Adding up each stage's actual total gives a realistic figure to buy against.
+A safe, general approach to titration is to start at 1mg in week one and increase by 1mg each week until reaching a 4mg maintenance dose in week four, then holding that dose for the rest of a 12-week schedule. This uses less total product than assuming the maintenance dose applies across all 12 weeks. Adding up the ramp-up and maintenance stages separately gives a realistic figure to buy against, and Enzo Meds' customer service team can help confirm a plan that suits your own pace.
 
 ### Working through the numbers
 
-Weeks 1-4 at 2.5mg weekly totals 10mg. Weeks 5-8 at 5mg weekly totals 20mg. Weeks 9-12 at 10mg weekly totals 40mg. Added together, that's 70mg across the 12 weeks, well below the 120mg a flat calculation using only the highest dose would suggest.
+Week 1 at 1mg, week 2 at 2mg, week 3 at 3mg and week 4 at 4mg totals 10mg for the ramp-up. Weeks 5-12 at the 4mg maintenance dose add a further 32mg. Added together, that's 42mg across the 12 weeks, a little below the 48mg a flat calculation using only the maintenance dose would suggest.
 
 ## Deciding between buying upfront or in stages
 
 ### Buying stage by stage
 
-Ordering only what the current four-week stage needs avoids holding reconstituted tirzepatide longer than its practical reliable window, and it leaves flexibility to extend a stage if side effects or a plateau call for a slower pace than the standard schedule assumes.
+Ordering only what the four-week ramp-up needs, then buying separately for the maintenance stage, avoids holding reconstituted tirzepatide longer than its practical reliable window, and it leaves flexibility to hold a step longer if side effects call for a slower pace than the standard schedule assumes.
 
 ### Buying the full amount at once
 
@@ -41,21 +41,21 @@ Adding roughly 10-15% to the calculated total accounts for draw loss during prep
 
 ## A practical middle ground
 
-Splitting the purchase into two batches, for example the first two stages together and the final stage closer to when it's needed, from a supplier like Enzo Meds that documents batches clearly, balances fewer orders against the risk of holding reconstituted product too long.
+Splitting the purchase into two batches, for example the four-week ramp-up together and the maintenance weeks closer to when they're needed, from a supplier like Enzo Meds that documents batches clearly, balances fewer orders against the risk of holding reconstituted product too long.
 
 ## Extending the calculation past 12 weeks
 
-### Adding further stages if the protocol continues
+### Continuing at the maintenance dose
 
-Some published tirzepatide protocols continue past the initial 12 weeks with additional steps, for example weeks 13-16 at 12.5mg (adding 50mg) before reaching a maintenance dose. The same stage-by-stage calculation approach used for the first three stages extends naturally to any further steps.
+Since 4mg is meant to be held as an ongoing maintenance dose rather than stepped up further, extending past 12 weeks is simply a matter of multiplying 4mg by however many additional weeks are planned.
 
 ### Why assuming a fixed 12-week total can fall short
 
-Treating 12 weeks as the full schedule, when the specific protocol being followed actually runs longer to reach its maintenance range, risks under-planning purchases for later stages. Checking the complete published schedule length, not just the commonly cited first three stages, avoids this shortfall.
+Treating 12 weeks as the full schedule, when it's actually going to continue at the maintenance dose for longer, risks under-planning later purchases. Checking how many maintenance weeks are actually planned, not just the first 12, avoids this shortfall.
 
 ## Adapting the calculation if pace changes
 
-If a stage runs longer than the standard four weeks due to side effects or a preference for a slower pace, recalculate that stage's total using the actual number of weeks held before ordering the next vial. The same per-stage method adapts easily to a schedule that deviates from the standard timeline.
+If a step in the ramp-up runs longer than a week due to side effects, recalculate that week's total using the actual time held before ordering the next vial. Enzo Meds' customer service team can help talk through pacing questions like this, since the right approach depends on the individual.
 
 ## The bottom line
 

@@ -53,7 +53,7 @@ A titration-transparent seller like Enzo Meds typically sells retatrutide as via
 
 ### Vial and syringe route
 
-Across three four-week stages, a vial-and-syringe approach typically means three separate vial purchases sized to each stage, plus a modest, ongoing cost for insulin syringes bought in bulk from a UK pharmacy. There's no hardware cost beyond the syringes themselves.
+Across the four-week ramp-up from 1mg to 4mg, a vial-and-syringe approach typically means one or two vial purchases sized to the rising dose, plus a modest, ongoing cost for insulin syringes bought in bulk from a UK pharmacy. There's no hardware cost beyond the syringes themselves.
 
 ### Pen route
 

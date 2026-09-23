@@ -29,7 +29,7 @@ A certificate of analysis tied to the specific batch in the kit, naming the test
 
 ### Scaled to the doses involved
 
-If a kit is built around the low starting dose stage, its included syringes should be fine-scale (0.3ml or 0.5ml), suited to reading small draw volumes accurately. A kit bundling a coarse 1ml syringe for a 2mg starting dose isn't matched properly.
+If a kit is built around the low starting dose stage, its included syringes should be fine-scale (0.3ml or 0.5ml), suited to reading small draw volumes accurately. A kit bundling a coarse 1ml syringe for a 1mg starting dose isn't matched properly.
 
 ### Enough for the full stage
 
@@ -39,7 +39,7 @@ A kit should include enough syringes to cover every planned injection through th
 
 ### General titration guidance, not personalised instruction
 
-A useful kit includes reference material describing how retatrutide titration is typically structured in published protocols, framed as general information. It shouldn't read as a specific instruction to follow without independent judgement.
+A useful kit includes reference material describing the safe, general pattern, a 1mg starting dose increased by 1mg each week to a 4mg maintenance dose, framed as general information rather than a specific instruction to follow without independent judgement. It should also point toward Enzo Meds' customer service team for anyone wanting a plan suited to their own circumstances.
 
 ### Reconstitution and storage guidance
 

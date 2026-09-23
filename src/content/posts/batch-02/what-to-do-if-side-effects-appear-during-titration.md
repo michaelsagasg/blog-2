@@ -9,7 +9,7 @@ tags: [titration, usage, side-effects]
 
 ## Mild, early side effects are common and usually settle within the current stage
 
-Nausea, reduced appetite, and mild digestive discomfort are commonly reported during the first one to two weeks after starting a new dose level, and published trial data shows these symptoms typically ease as the body adjusts to that level, often before the four-week stage is over. Recognising this pattern is the first step in knowing whether what's happening is expected or worth addressing differently.
+Nausea, reduced appetite, and mild digestive discomfort are commonly reported during the first few days after starting a new dose level, and published trial data shows these symptoms typically ease as the body adjusts to that level, often before the week is over. Recognising this pattern is the first step in knowing whether what's happening is expected or worth addressing differently.
 
 ### What's considered a common, expected pattern
 
@@ -23,7 +23,7 @@ Smaller, more frequent meals, avoiding very fatty or heavy food around injection
 
 ### Extending the current hold period
 
-If side effects at a step haven't settled after the standard four weeks, extending the hold before increasing further is a widely reported and reasonable adjustment, giving more time at the current level rather than moving to a higher dose while still adjusting to the current one.
+If side effects at a step haven't settled after the standard week, extending the hold before increasing further is a widely reported and reasonable adjustment, giving more time at the current level rather than moving to a higher dose while still adjusting to the current one. Enzo Meds' customer service team can help you think through pacing if this happens.
 
 ## When to treat symptoms as more than routine adjustment
 
@@ -57,7 +57,7 @@ A clear log also helps distinguish between a one-off rough day and a genuine pat
 
 ## How this affects supply planning
 
-If a hold period extends because of side effects, the vial being used at that stage needs to last longer than originally calculated. Check remaining product against the extended timeline, and order a modest top-up if needed, rather than assuming the original four-week sizing still covers an extended stage.
+If a hold period extends because of side effects, the vial being used at that step needs to last longer than originally calculated. Check remaining product against the extended timeline, and order a modest top-up if needed, rather than assuming the original weekly sizing still covers an extended step.
 
 ## The bottom line
 
