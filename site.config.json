@@ -1,6 +1,6 @@
 {
-  "slug": "titrationtrack",
-  "name": "TitrationTrack",
+  "slug": "retatitrate",
+  "name": "RetaTitrate",
   "tagline": "Dose-by-dose titration schedules for retatrutide and tirzepatide, sourced and explained for UK readers.",
   "nav": [
     { "label": "All articles", "short": "All", "href": "/archive/" }
